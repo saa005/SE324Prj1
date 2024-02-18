@@ -1,0 +1,451 @@
+Baker 0: (0) Vanilla
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Vanilla
+Baker 2: (0) Vanilla
+Baker 1: (1) Chocolate
+Customer 0: (1) Chocolate & (0) Vanilla
+Baker 1: (0) Orange
+Baker 1: (1) Vanilla
+Customer 0: (1) Vanilla & (0) Orange
+Baker 0: (0) Vanilla
+Baker 1: (1) Vanilla
+Customer 0: (1) Vanilla & (0) Vanilla
+Baker 2: (0) Chocolate
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Chocolate
+Baker 0: (0) Vanilla
+Baker 0: (1) Orange
+Customer 0: (1) Orange & (0) Vanilla
+Baker 0: (0) Strawberry
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Strawberry
+Baker 1: (0) Chocolate
+Baker 2: (1) Orange
+Customer 0: (1) Orange & (0) Chocolate
+Baker 1: (0) Strawberry
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Strawberry
+Baker 1: (0) Strawberry
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Strawberry
+Baker 0: (0) Strawberry
+Baker 1: (1) Chocolate
+Customer 0: (1) Chocolate & (0) Strawberry
+Baker 1: (0) Vanilla
+Baker 2: (1) Vanilla
+Customer 0: (1) Vanilla & (0) Vanilla
+Baker 1: (0) Orange
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Orange
+Baker 1: (0) Orange
+Baker 0: (1) Orange
+Customer 2: (1) Orange & (0) Orange
+Baker 1: (0) Orange
+Baker 1: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Orange
+Baker 1: (0) Orange
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Orange
+Baker 1: (0) Strawberry
+Baker 2: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Strawberry
+Baker 2: (0) Chocolate
+Baker 2: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Chocolate
+Baker 1: (0) Chocolate
+Baker 0: (1) Orange
+Customer 2: (1) Orange & (0) Chocolate
+Baker 0: (0) Strawberry
+Baker 1: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Strawberry
+Baker 2: (0) Vanilla
+Baker 1: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Vanilla
+Baker 0: (0) Vanilla
+Baker 0: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Vanilla
+Baker 0: (0) Vanilla
+Baker 0: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Vanilla
+Baker 1: (0) Orange
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Orange
+Baker 1: (0) Chocolate
+Baker 1: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Chocolate
+Baker 0: (0) Orange
+Baker 1: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Orange
+Baker 2: (0) Orange
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Orange
+Baker 0: (0) Vanilla
+Baker 1: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Vanilla
+Baker 2: (0) Chocolate
+Baker 1: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Chocolate
+Baker 1: (0) Chocolate
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Chocolate
+Baker 0: (0) Orange
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Orange
+Baker 2: (0) Strawberry
+Baker 1: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Strawberry
+Baker 0: (0) Strawberry
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 2: (0) Vanilla
+Baker 1: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Vanilla
+Baker 0: (0) Chocolate
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Chocolate
+Baker 2: (0) Strawberry
+Baker 2: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Strawberry
+Baker 1: (0) Vanilla
+Baker 0: (1) Orange
+Customer 2: (1) Orange & (0) Vanilla
+Baker 1: (0) Vanilla
+Baker 2: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Vanilla
+Baker 2: (0) Chocolate
+Baker 1: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Chocolate
+Baker 1: (0) Vanilla
+Baker 0: (1) Chocolate
+Customer 1: (1) Chocolate & (0) Vanilla
+Baker 0: (0) Orange
+Baker 0: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Orange
+Baker 1: (0) Chocolate
+Baker 1: (1) Chocolate
+Customer 1: (1) Chocolate & (0) Chocolate
+Baker 2: (0) Chocolate
+Baker 2: (1) Orange
+Customer 1: (1) Orange & (0) Chocolate
+Baker 1: (0) Strawberry
+Baker 1: (1) Orange
+Customer 1: (1) Orange & (0) Strawberry
+Baker 0: (0) Vanilla
+Baker 1: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Vanilla
+Baker 2: (0) Vanilla
+Baker 1: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Vanilla
+Baker 0: (0) Orange
+Baker 1: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Orange
+Baker 2: (0) Strawberry
+Baker 2: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 1: (0) Vanilla
+Baker 0: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Vanilla
+Baker 0: (0) Orange
+Baker 1: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Orange
+Baker 2: (0) Vanilla
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Vanilla
+Baker 0: (0) Chocolate
+Baker 1: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Chocolate
+Baker 2: (0) Strawberry
+Baker 1: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Strawberry
+Baker 0: (0) Strawberry
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 1: (0) Orange
+Baker 1: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Orange
+Baker 2: (0) Chocolate
+Baker 2: (1) Orange
+Customer 2: (1) Orange & (0) Chocolate
+Baker 1: (0) Strawberry
+Baker 0: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Strawberry
+Baker 1: (0) Orange
+Baker 1: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Orange
+Baker 2: (0) Vanilla
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Vanilla
+Baker 1: (0) Vanilla
+Baker 0: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Vanilla
+Baker 1: (0) Strawberry
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Strawberry
+Baker 1: (0) Vanilla
+Baker 0: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Vanilla
+Baker 1: (0) Orange
+Baker 1: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Orange
+Baker 2: (0) Vanilla
+Baker 1: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Vanilla
+Baker 1: (0) Strawberry
+Baker 1: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 1: (0) Chocolate
+Baker 0: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Chocolate
+Baker 0: (0) Orange
+Baker 1: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Orange
+Baker 2: (0) Strawberry
+Baker 2: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 2: (0) Vanilla
+Baker 1: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Vanilla
+Baker 0: (0) Strawberry
+Baker 0: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 0: (0) Orange
+Baker 0: (1) Orange
+Customer 2: (1) Orange & (0) Orange
+Baker 0: (0) Vanilla
+Baker 1: (1) Vanilla
+Customer 0: (1) Vanilla & (0) Vanilla
+Baker 1: (0) Chocolate
+Baker 1: (1) Strawberry
+Customer 0: (1) Strawberry & (0) Chocolate
+Baker 1: (0) Chocolate
+Baker 1: (1) Strawberry
+Customer 0: (1) Strawberry & (0) Chocolate
+Baker 2: (0) Orange
+Baker 1: (1) Chocolate
+Customer 0: (1) Chocolate & (0) Orange
+Baker 1: (0) Vanilla
+Baker 0: (1) Orange
+Customer 0: (1) Orange & (0) Vanilla
+Baker 1: (0) Chocolate
+Baker 2: (1) Strawberry
+Customer 0: (1) Strawberry & (0) Chocolate
+Baker 1: (0) Vanilla
+Baker 0: (1) Orange
+Customer 0: (1) Orange & (0) Vanilla
+Baker 1: (0) Orange
+Baker 2: (1) Orange
+Customer 0: (1) Orange & (0) Orange
+Baker 1: (0) Orange
+Baker 1: (1) Strawberry
+Customer 0: (1) Strawberry & (0) Orange
+Baker 1: (0) Strawberry
+Baker 1: (1) Vanilla
+Customer 0: (1) Vanilla & (0) Strawberry
+Baker 0: (0) Chocolate
+Baker 0: (1) Strawberry
+Customer 0: (1) Strawberry & (0) Chocolate
+Baker 1: (0) Chocolate
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Chocolate
+Baker 1: (0) Strawberry
+Baker 1: (1) Chocolate
+Customer 0: (1) Chocolate & (0) Strawberry
+Baker 1: (0) Orange
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Orange
+Baker 1: (0) Vanilla
+Baker 1: (1) Chocolate
+Customer 0: (1) Chocolate & (0) Vanilla
+Baker 1: (0) Chocolate
+Baker 1: (1) Strawberry
+Customer 0: (1) Strawberry & (0) Chocolate
+Baker 2: (0) Vanilla
+Baker 2: (1) Vanilla
+Customer 0: (1) Vanilla & (0) Vanilla
+Baker 1: (0) Vanilla
+Baker 0: (1) Orange
+Customer 0: (1) Orange & (0) Vanilla
+Baker 0: (0) Vanilla
+Baker 0: (1) Orange
+Customer 0: (1) Orange & (0) Vanilla
+Baker 0: (0) Chocolate
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Chocolate
+Baker 1: (0) Vanilla
+Baker 1: (1) Orange
+Customer 0: (1) Orange & (0) Vanilla
+Baker 2: (0) Chocolate
+Baker 2: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Chocolate
+Baker 2: (0) Strawberry
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Strawberry
+Baker 0: (0) Orange
+Baker 2: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Orange
+Baker 2: (0) Chocolate
+Baker 2: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Chocolate
+Baker 0: (0) Vanilla
+Baker 2: (1) Orange
+Customer 2: (1) Orange & (0) Vanilla
+Baker 0: (0) Strawberry
+Baker 2: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 2: (0) Chocolate
+Baker 0: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Chocolate
+Baker 0: (0) Vanilla
+Baker 0: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Vanilla
+Baker 0: (0) Chocolate
+Baker 0: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Chocolate
+Baker 0: (0) Chocolate
+Baker 0: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Chocolate
+Baker 2: (0) Vanilla
+Baker 0: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Vanilla
+Baker 0: (0) Vanilla
+Baker 0: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Vanilla
+Baker 2: (0) Orange
+Baker 2: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Orange
+Baker 0: (0) Chocolate
+Baker 0: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Chocolate
+Baker 2: (0) Strawberry
+Baker 0: (1) Chocolate
+Customer 1: (1) Chocolate & (0) Strawberry
+Baker 0: (0) Orange
+Baker 0: (1) Chocolate
+Customer 1: (1) Chocolate & (0) Orange
+Baker 0: (0) Chocolate
+Baker 0: (1) Orange
+Customer 1: (1) Orange & (0) Chocolate
+Baker 2: (0) Orange
+Baker 2: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Orange
+Baker 2: (0) Chocolate
+Baker 0: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Chocolate
+Baker 0: (0) Strawberry
+Baker 0: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Strawberry
+Baker 0: (0) Chocolate
+Baker 2: (1) Orange
+Customer 1: (1) Orange & (0) Chocolate
+Baker 2: (0) Orange
+Baker 0: (1) Orange
+Customer 1: (1) Orange & (0) Orange
+Baker 2: (0) Vanilla
+Baker 2: (1) Orange
+Customer 1: (1) Orange & (0) Vanilla
+Baker 2: (0) Chocolate
+Baker 0: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Chocolate
+Baker 0: (0) Orange
+Baker 2: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Orange
+Baker 2: (0) Vanilla
+Baker 0: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Vanilla
+Baker 0: (0) Strawberry
+Baker 2: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Strawberry
+Baker 0: (0) Vanilla
+Baker 0: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Vanilla
+Baker 0: (0) Orange
+Baker 2: (1) Chocolate
+Customer 1: (1) Chocolate & (0) Orange
+Baker 2: (0) Orange
+Baker 2: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Orange
+Baker 0: (0) Strawberry
+Baker 0: (1) Orange
+Customer 1: (1) Orange & (0) Strawberry
+Baker 0: (0) Vanilla
+Baker 2: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Vanilla
+Baker 2: (0) Chocolate
+Baker 0: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Chocolate
+Baker 0: (0) Orange
+Baker 2: (1) Chocolate
+Customer 1: (1) Chocolate & (0) Orange
+Baker 2: (0) Chocolate
+Baker 0: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Chocolate
+Baker 0: (0) Chocolate
+Baker 0: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Chocolate
+Baker 2: (0) Strawberry
+Baker 2: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Strawberry
+Baker 0: (0) Strawberry
+Baker 0: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Strawberry
+Baker 2: (0) Chocolate
+Baker 2: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Chocolate
+Baker 2: (0) Strawberry
+Baker 2: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Strawberry
+Baker 2: (0) Orange
+Baker 2: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Orange
+Baker 0: (0) Orange
+Baker 0: (1) Chocolate
+Customer 1: (1) Chocolate & (0) Orange
+Baker 2: (0) Vanilla
+Baker 2: (1) Vanilla
+Customer 1: (1) Vanilla & (0) Vanilla
+Baker 0: (0) Chocolate
+Baker 0: (1) Strawberry
+Customer 1: (1) Strawberry & (0) Chocolate
+Baker 0: (0) Chocolate
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Chocolate
+Baker 0: (0) Orange
+Baker 0: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Orange
+Baker 2: (0) Vanilla
+Baker 2: (1) Strawberry
+Customer 2: (1) Strawberry & (0) Vanilla
+Baker 2: (0) Vanilla
+Baker 0: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Vanilla
+Baker 0: (0) Vanilla
+Baker 0: (1) Orange
+Customer 2: (1) Orange & (0) Vanilla
+Baker 2: (0) Orange
+Baker 2: (1) Vanilla
+Customer 0: (1) Vanilla & (0) Orange
+Baker 0: (0) Strawberry
+Baker 0: (1) Orange
+Customer 0: (1) Orange & (0) Strawberry
+Baker 2: (0) Strawberry
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Strawberry
+Baker 2: (0) Orange
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Orange
+Baker 2: (0) Strawberry
+Baker 2: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 2: (0) Vanilla
+Baker 2: (1) Vanilla
+Customer 2: (1) Vanilla & (0) Vanilla
+Baker 2: (0) Strawberry
+Baker 2: (1) Orange
+Customer 2: (1) Orange & (0) Strawberry
+Baker 2: (0) Chocolate
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Chocolate
+Baker 2: (0) Orange
+Baker 2: (1) Chocolate
+Customer 2: (1) Chocolate & (0) Orange
+Baker 8: (0) Strawberry
